@@ -20,22 +20,19 @@ handler.all = async function (m, { isBlocked }) {
     ┊⫹⫺ Normal: 20k (1 bulan)
     ┊⫹⫺ Pro: 40k (4 bulan)
     ┊⫹⫺ Vip: 50k (8 bulan)                                               
-    ┊⫹⫺ Permanent: = 70k (Unlimited)
     ╰═┅═━––––––๑
     
     ⫹⫺ PAYMENT:
-    • Pulsa Telkomsel: [082127487538]
-    • Dana: [082127487538]
-    • Gopay: [082127487538]
-    • Ovo: [082127487538]
-    • Link Aja: [082127487538]
+    • Pulsa Telkomsel: [081332995497]
+    • Dana: [081332995497]
+    • Gopay: [081332995497]
     
     Nomor Owner :
-    wa.me/6282127487538
+    wa.me/6282261065144
     
     ▌│█║▌║▌║║▌║▌║█│▌
     
-    #BY WH MODS DEV`
+    #BY FIN BOTZ`
     this.reply(m.chat, teks, m)
     const data = global.owner.filter(([id, isCreator]) => id && isCreator)
     this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
