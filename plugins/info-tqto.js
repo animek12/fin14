@@ -55,9 +55,10 @@ https://github.com/Aiinne
 https://github.com/FahriAdison
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ ImYanXiao:*
-https://github.com/ImYanXiao
+https://github.com/Raya2399
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ WH MODS DEV:*
+*❉ Fin botz:*
 *❉ Kannachan:*
 *❉ Papah-Chan:*
 *❉ Johannes:*
@@ -66,10 +67,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/al_vin.233",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/_ctzhid", 
-    title: 'WH-MODS-DEV-MultiDevice',
+    description: "https://Instagram.com/al_vin.233", 
+    title: 'FIN BOTZ MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
