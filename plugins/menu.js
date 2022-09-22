@@ -525,12 +525,6 @@ const listMessage = {
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Speed',
-                        id: '.speed'
-                    }
-                },
-                {
-                    quickReplyButton: {
                         displayText: 'Donasi',
                         id: '.donasi'
                     }
